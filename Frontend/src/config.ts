@@ -1,0 +1,2 @@
+// export const BACKEND_URL: string = "http://localhost:1337/api";
+// export const STRAPI_TOKEN: string = "55c42f97a975bba26f861bfc72a1211d29276bab91400a7b993ff4074d0ccdc2fba169b3436a6b91abe74481ec3cfd263890a1561dda633a0c08515eddccc505b592811d3792324b9b72077bb33cc30d1587b45bbe55d7447422fcdd934d3090ffed72ca37af77099ab0e5aeb726b8bc92dedf0157fa852123e22a86fb923fd2";
